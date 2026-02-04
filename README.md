@@ -6,7 +6,7 @@ This is the public code of the submitted manuscript "Systematic Evaluation of Su
 
 0. Create Environment and Install Libs:
    
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 2. Run the Experiments (From data preprocessing to data analysis):
