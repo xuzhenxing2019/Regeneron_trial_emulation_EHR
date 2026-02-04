@@ -5,10 +5,11 @@ This is the public code of the submitted manuscript "Systematic Evaluation of Su
 
 
 0. Create Environment and Install Libs:
+   
   pip install -r requirements.txt
 
 
-1. Run the Experiments (From data preprocessing to data analysis):
+2. Run the Experiments (From data preprocessing to data analysis):
    ---01_determine_therapy_pres_adm_pro.py
    ---02_cohort_construction.py
    ---03_extract_drug_baseline_all.py
